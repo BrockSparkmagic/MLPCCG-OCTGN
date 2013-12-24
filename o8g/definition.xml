@@ -8,7 +8,7 @@
 	authors="Anonymous"
 	description="My Little Pony Collectible Card Game by Enterplay"
 	tags="MLP"
-	iconurl="https://raw.github.com/kellyelton/dominoes/master/dominoes.o8g/background/icon.jpg">
+	iconurl="http://brocksparkmagic.github.io/MLPCCG-OCTGN/images/icon.png">
   <scripts>
     <script src="Scripts/actions.py" />
 	</scripts>
