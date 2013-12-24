@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game name="My Little Pony Collectible Card Game" id="97c57de5-acec-418c-8f51-460aac7b386d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	octgnVersion="3.1.0.0" 
+	version="1.0.0.0"
+	markersize="10" 
+	setsurl="http://brocksparkmagic.github.io/MLPCCG-OCTGN/sets.htm"
+	gameurl="http://brocksparkmagic.github.io/MLPCCG-OCTGN"
+	authors="Anonymous"
+	description="My Little Pony Collectible Card Game by Enterplay"
+	tags="MLP"
+	iconurl="https://raw.github.com/kellyelton/dominoes/master/dominoes.o8g/background/icon.jpg">
+  <scripts>
+    <script src="Scripts/actions.py" />
+	</scripts>
+  <proxygen definitionsrc="Proxy/proxydef.xml" >
+  </proxygen>
+  <card back="cards/back.jpg" front="cards/back.jpg" width="63" height="88" cornerRadius="0">
+      <property name="ID" type="String" textKind="Free" />
+      <property name="Color" type="String" textKind="Enum" />
+      <property name="Type" type="String" textKind="Enum" />
+  </card>
+  <table name="Table" visibility="all" ordered="False" background="Images/Board.jpg" width="600" height="600" backgroundStyle="uniformToFill">
+  </table>
+  <player summary="Hand:{#Hand} Score:{#Score} Actions:{#Action Tokens}">
+    <hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" width="63" height="88" icon="groups/hand.png">
+    </hand>
+    <group name="Deck" shortcut="ctrl+E" visibility="none" width="63" height="88" icon="groups/deck.png">
+    </group>
+    <group name="Problems" shortcut="ctrl+E" visibility="none" width="63" height="88" icon="groups/problems.png">
+    </group>
+    <counter name="Score" icon="Counters/score.png" reset="True" />
+    <counter name="Action Tokens" icon="Counters/actiontoken.png" reset="True" />
+  </player>
+  <deck>
+    <section name="Draw Deck" group="Deck" />
+    <section name="Problem Deck" group="Problems" />
+  </deck>
+
+</game>

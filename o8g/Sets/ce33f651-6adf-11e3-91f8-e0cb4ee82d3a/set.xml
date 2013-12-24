@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<set name="My Little Pony Collectible Card Game"
+     id="ce33f651-6adf-11e3-91f8-e0cb4ee82d3a"
+     gameId="97c57de5-acec-418c-8f51-460aac7b386d"
+     gameVersion="1.0.0"
+     version="1.0.0.0">
+
+<cards>
+<card id="22b40e21-6bcd-11e3-958f-e0cb4ee82d3a" name="Rainbow Dash Flier Extraodinaire"><property name="Type" value="Mane"/><property name="Color" value="Blue"/><property name="ID" value="1"/></card>
+<card id="22b40e22-6bcd-11e3-9743-e0cb4ee82d3a" name="Applejack Steadfast Farmpony"><property name="Type" value="Mane"/><property name="Color" value="Orange"/><property name="ID" value="2"/></card>
+<card id="22b40e23-6bcd-11e3-9656-e0cb4ee82d3a" name="Pinkie Pie™ Party Animal"><property name="Type" value="Mane"/><property name="Color" value="Pink"/><property name="ID" value="3"/></card>
+<card id="22b40e24-6bcd-11e3-9996-e0cb4ee82d3a" name="Twilight Sparkle Faithful Student"><property name="Type" value="Mane"/><property name="Color" value="Purple"/><property name="ID" value="4"/></card>
+<card id="22b40e25-6bcd-11e3-8a43-e0cb4ee82d3a" name="Rarity Dazzling Fashionista"><property name="Type" value="Mane"/><property name="Color" value="White"/><property name="ID" value="5"/></card>
+<card id="22b40e26-6bcd-11e3-b0c6-e0cb4ee82d3a" name="Fluttershy™ Beastmaster"><property name="Type" value="Mane"/><property name="Color" value="Yellow"/><property name="ID" value="6"/></card>
+<card id="513d181e-6ada-11e3-9d6a-e0cb4ee82d3a" name="Jetstream All Heart"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="7"/></card>
+<card id="513d3f30-6ada-11e3-b988-e0cb4ee82d3a" name="Cerulean Skies Skyward Soarer"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="8"/></card>
+<card id="513d6640-6ada-11e3-9c68-e0cb4ee82d3a" name="Finish Line Jammer"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="9"/></card>
+<card id="513d8d4f-6ada-11e3-9400-e0cb4ee82d3a" name="Wild Fire Speed Racer"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="10"/></card>
+<card id="513db461-6ada-11e3-bb50-e0cb4ee82d3a" name="Cloudchaser™ Flexible Flier"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="11"/></card>
+<card id="513ddb70-6ada-11e3-a1e4-e0cb4ee82d3a" name="Emerald Green Cider Aficionado"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="12"/></card>
+<card id="513e0280-6ada-11e3-91f4-e0cb4ee82d3a" name="Holly Dash™ Flighty Filly"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="13"/></card>
+<card id="513e2991-6ada-11e3-acd1-e0cb4ee82d3a" name="Pegasus Royal Guard Elite Sentry"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="14"/></card>
+<card id="513e50a1-6ada-11e3-ba15-e0cb4ee82d3a" name="Rainbow Dash Weather Leader"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="15"/></card>
+<card id="513e77b0-6ada-11e3-b497-e0cb4ee82d3a" name="Rainbowshine Cloud Wrangler"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="16"/></card>
+<card id="513e9ec0-6ada-11e3-aa08-e0cb4ee82d3a" name="Scootaloo Creature Catcher"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="17"/></card>
+<card id="513ec5cf-6ada-11e3-8890-e0cb4ee82d3a" name="Spike™ Baby Dragon"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="18"/></card>
+<card id="513eecde-6ada-11e3-99d0-e0cb4ee82d3a" name="Solar Wind Enterprising Astronomer"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="19"/></card>
+<card id="513f13ee-6ada-11e3-bb37-e0cb4ee82d3a" name="Sweetie Sunrise Early Riser"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="20"/></card>
+<card id="513f3b00-6ada-11e3-ab9f-e0cb4ee82d3a" name="Gala Appleby Refined Farmer"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="21"/></card>
+<card id="513f620f-6ada-11e3-b949-e0cb4ee82d3a" name="Apple Cobbler™ Headstrong"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="22"/></card>
+<card id="513f891e-6ada-11e3-a610-e0cb4ee82d3a" name="Applejack™ Plant Leader"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="23"/></card>
+<card id="513f891f-6ada-11e3-bb4a-e0cb4ee82d3a" name="Applejack™ Barn Raiser"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="24"/></card>
+<card id="513fb030-6ada-11e3-a00c-e0cb4ee82d3a" name="Auntie Applesauce™ Gum Flapper"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="25"/></card>
+<card id="513fd740-6ada-11e3-a141-e0cb4ee82d3a" name="Cherry Jubilee™ Queen of the Hill"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="26"/></card>
+<card id="513ffe4f-6ada-11e3-b5d7-e0cb4ee82d3a" name="Coco Crusoe Thick Skinned"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="27"/></card>
+<card id="51402561-6ada-11e3-93b4-e0cb4ee82d3a" name="Granny Smith™ Apple Elder"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="28"/></card>
+<card id="51404c70-6ada-11e3-bf36-e0cb4ee82d3a" name="Igneous Rock™ Pebble Pusher"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="29"/></card>
+<card id="51407380-6ada-11e3-b793-e0cb4ee82d3a" name="Drill Bit Destruction Worker"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="30"/></card>
+<card id="51409a8f-6ada-11e3-acc2-e0cb4ee82d3a" name="Full Steam Smoke Stacked"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="31"/></card>
+<card id="5140c1a1-6ada-11e3-af9a-e0cb4ee82d3a" name="Silver Spanner Nuts for Bolts"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="32"/></card>
+<card id="5140e8b0-6ada-11e3-bafe-e0cb4ee82d3a" name="Red Gala™ Favorite Cousin"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="33"/></card>
+<card id="51410fc0-6ada-11e3-b71d-e0cb4ee82d3a" name="Sunny Smiles Iconic Friend"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="34"/></card>
+<card id="514136d1-6ada-11e3-a9e9-e0cb4ee82d3a" name="Night Watch Vigilant Patrol"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="35"/></card>
+<card id="51415de1-6ada-11e3-bd9b-e0cb4ee82d3a" name="Apple Brown Betty Pastry Chef"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="36"/></card>
+<card id="51415de2-6ada-11e3-9b09-e0cb4ee82d3a" name="Berry Dreams™ Pom-Pom Pony"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="37"/></card>
+<card id="514184f0-6ada-11e3-886e-e0cb4ee82d3a" name="Big Top Silly Pony"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="38"/></card>
+<card id="5141ac00-6ada-11e3-aba5-e0cb4ee82d3a" name="Charged Up Energizer Pony"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="39"/></card>
+<card id="5141d30f-6ada-11e3-8781-e0cb4ee82d3a" name="Dance Fever Disco King"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="40"/></card>
+<card id="5141fa1e-6ada-11e3-af2b-e0cb4ee82d3a" name="Lucky Streak One in a Million"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="41"/></card>
+<card id="5142212e-6ada-11e3-9dec-e0cb4ee82d3a" name="Flitter™ Ribbion Wielder"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="42"/></card>
+<card id="51424840-6ada-11e3-9ec1-e0cb4ee82d3a" name="Goldengrape™ Popular Punster"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="43"/></card>
+<card id="51426f4f-6ada-11e3-b7d3-e0cb4ee82d3a" name="High Spirits Life Enthusiast"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="44"/></card>
+<card id="5142965e-6ada-11e3-a99a-e0cb4ee82d3a" name="Pinkie Pie™ Pinkie &quot;Responsibility&quot; Pie™"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="45"/></card>
+<card id="5142bd70-6ada-11e3-82ad-e0cb4ee82d3a" name="Pinkie Pie™ Ice Cutter"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="46"/></card>
+<card id="5142e480-6ada-11e3-8766-e0cb4ee82d3a" name="Pinprick Pop Star"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="47"/></card>
+<card id="51430b8f-6ada-11e3-871e-e0cb4ee82d3a" name="Ol' Salt Salt Blocked"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="48"/></card>
+<card id="514332a1-6ada-11e3-8a8a-e0cb4ee82d3a" name="Snips™ &amp; Snails™ Dynamic Duo"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="49"/></card>
+<card id="514359b0-6ada-11e3-9fc9-e0cb4ee82d3a" name="Surprise Party Pegasus"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="50"/></card>
+<card id="514380c0-6ada-11e3-a013-e0cb4ee82d3a" name="Apple Stars™ Fruit Prodigy"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="51"/></card>
+<card id="514380c1-6ada-11e3-8394-e0cb4ee82d3a" name="Professor Neigh Algebraic!"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="52"/></card>
+<card id="5143a7d1-6ada-11e3-a528-e0cb4ee82d3a" name="Bright Bulb Seasoned Strategist"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="53"/></card>
+<card id="5143cee1-6ada-11e3-9aef-e0cb4ee82d3a" name="Comet Tail™ Hale Bopper"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="54"/></card>
+<card id="5143f5f0-6ada-11e3-a127-e0cb4ee82d3a" name="Mint Jewelup A Cut Above"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="55"/></card>
+<card id="51441d00-6ada-11e3-a933-e0cb4ee82d3a" name="Gyro Poindexter"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="56"/></card>
+<card id="5144440f-6ada-11e3-9854-e0cb4ee82d3a" name="Lemony Gem™ Sour Grapes"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="57"/></card>
+<card id="51446b1e-6ada-11e3-94c7-e0cb4ee82d3a" name="Mayor Mare™ Elected Official"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="58"/></card>
+<card id="5144922e-6ada-11e3-bd1d-e0cb4ee82d3a" name="Rare Find A Real Gem"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="59"/></card>
+<card id="5144b940-6ada-11e3-b721-e0cb4ee82d3a" name="Blue Moon Ol' Blue Eyes"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="60"/></card>
+<card id="5144e04f-6ada-11e3-ada5-e0cb4ee82d3a" name="Spring Forward Companionable Filly"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="61"/></card>
+<card id="5145075e-6ada-11e3-ac23-e0cb4ee82d3a" name="Sunny Rays™ One Bright Mare"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="62"/></card>
+<card id="51452e70-6ada-11e3-935b-e0cb4ee82d3a" name="Lady Justice Judge &amp; Jury"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="63"/></card>
+<card id="51455580-6ada-11e3-a035-e0cb4ee82d3a" name="Twilight Sparkle™ All-Team Organizer"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="64"/></card>
+<card id="51457c8f-6ada-11e3-ac5e-e0cb4ee82d3a" name="Action Shot Shutterbug"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="65"/></card>
+<card id="5145a39e-6ada-11e3-9e61-e0cb4ee82d3a" name="Big Shot Wildlife Photographer"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="66"/></card>
+<card id="5145cab0-6ada-11e3-acd3-e0cb4ee82d3a" name="Featherweight™ Editor-in-Chief"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="67"/></card>
+<card id="5145f1c0-6ada-11e3-a93b-e0cb4ee82d3a" name="Fiddly Faddle Country Twang"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="68"/></card>
+<card id="514618cf-6ada-11e3-81aa-e0cb4ee82d3a" name="Eff Stop Muckraker"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="69"/></card>
+<card id="514618d0-6ada-11e3-bc67-e0cb4ee82d3a" name="Vidala Swoon Mane Manager"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="70"/></card>
+<card id="51463fe1-6ada-11e3-810b-e0cb4ee82d3a" name="Hoity Toity™ Vogue Authority"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="71"/></card>
+<card id="514666f0-6ada-11e3-9666-e0cb4ee82d3a" name="Savoir Fare Snooty Server"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="72"/></card>
+<card id="51468e00-6ada-11e3-8858-e0cb4ee82d3a" name="Pearly Stitch Crotchety Crocheter"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="73"/></card>
+<card id="5146b511-6ada-11e3-a8c7-e0cb4ee82d3a" name="Lotus Blossom™ Sauna Expert"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="74"/></card>
+<card id="5146dc21-6ada-11e3-82ab-e0cb4ee82d3a" name="Rising Star In the Spotlight"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="75"/></card>
+<card id="51470330-6ada-11e3-bb03-e0cb4ee82d3a" name="Noteworthy™ Humdinger"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="76"/></card>
+<card id="51472a40-6ada-11e3-855a-e0cb4ee82d3a" name="Rarity™ Nest Weaver"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="77"/></card>
+<card id="5147514f-6ada-11e3-9d16-e0cb4ee82d3a" name="Royal Riff™ Songster"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="78"/></card>
+<card id="5147785e-6ada-11e3-8090-e0cb4ee82d3a" name="Sugar Twist Twister Sister"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="79"/></card>
+<card id="51479f6e-6ada-11e3-818a-e0cb4ee82d3a" name="Amethyst Star™ Animal Leader"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="80"/></card>
+<card id="5147c680-6ada-11e3-a9fc-e0cb4ee82d3a" name="Blue Jay Warbler"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="81"/></card>
+<card id="5147ed8f-6ada-11e3-a1ee-e0cb4ee82d3a" name="Falcon Fast &amp; Furious"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="82"/></card>
+<card id="5148149e-6ada-11e3-9282-e0cb4ee82d3a" name="Fluttershy Guidance Counselor"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="83"/></card>
+<card id="5148149f-6ada-11e3-9c68-e0cb4ee82d3a" name="Fluttershy™ Animal Team"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="84"/></card>
+<card id="51483bb0-6ada-11e3-ae41-e0cb4ee82d3a" name="Forest Owl Novice Assistant"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="85"/></card>
+<card id="514862c0-6ada-11e3-8926-e0cb4ee82d3a" name="House Mouse Little Pipsqueak"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="86"/></card>
+<card id="514889cf-6ada-11e3-b33e-e0cb4ee82d3a" name="Hummingway Fine Feathered Friend"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="87"/></card>
+<card id="5148d7f0-6ada-11e3-af84-e0cb4ee82d3a" name="Lilac Links™ Superstitious"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="88"/></card>
+<card id="5148ff00-6ada-11e3-a5ac-e0cb4ee82d3a" name="Mane Cureall Veteran Vet"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="89"/></card>
+<card id="5149260f-6ada-11e3-88c2-e0cb4ee82d3a" name="Mr. Beaverton Beaverteeth™ Dam Builder"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="90"/></card>
+<card id="51494d21-6ada-11e3-9779-e0cb4ee82d3a" name="Mr. Breezy™ Fan Fan"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="91"/></card>
+<card id="51497430-6ada-11e3-ae7f-e0cb4ee82d3a" name="Opalescence™ Curtain Shredder"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="92"/></card>
+<card id="51499b40-6ada-11e3-b249-e0cb4ee82d3a" name="Sea Swirl™ Porpoiseful"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="93"/></card>
+<card id="5149c251-6ada-11e3-a8e5-e0cb4ee82d3a" name="Winona™ On the Scent"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="94"/></card>
+<card id="5149c252-6ada-11e3-9b22-e0cb4ee82d3a" name="Spread Your Wings"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="95"/></card>
+<card id="514a106e-6ada-11e3-ab62-e0cb4ee82d3a" name="Getting Hooves Dirty"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="96"/></card>
+<card id="514a3780-6ada-11e3-96d5-e0cb4ee82d3a" name="Dig Deep"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="97"/></card>
+<card id="514a3781-6ada-11e3-948e-e0cb4ee82d3a" name="Apples and Oranges"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="98"/></card>
+<card id="514a5e8f-6ada-11e3-bb8f-e0cb4ee82d3a" name="Royal Guidance"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="99"/></card>
+<card id="514a859e-6ada-11e3-8ea9-e0cb4ee82d3a" name="Sweet and Kind"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="100"/></card>
+<card id="514aacb0-6ada-11e3-87a3-e0cb4ee82d3a" name="Good Hustle"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="101"/></card>
+<card id="514ad3c0-6ada-11e3-bfc9-e0cb4ee82d3a" name="A Bully and a Beast"><property name="Type" value="Event"/><property name="Color" value="Orange"/><property name="ID" value="102"/></card>
+<card id="514afacf-6ada-11e3-bc59-e0cb4ee82d3a" name="A Touch of Refinement"><property name="Type" value="Event"/><property name="Color" value="White"/><property name="ID" value="103"/></card>
+<card id="514b21de-6ada-11e3-83c5-e0cb4ee82d3a" name="A Vision of the Future"><property name="Type" value="Event"/><property name="Color" value="Pink"/><property name="ID" value="104"/></card>
+<card id="514b48f0-6ada-11e3-b7db-e0cb4ee82d3a" name="Assertiveness Training"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="105"/></card>
+<card id="514b7000-6ada-11e3-9ede-e0cb4ee82d3a" name="Back Where you Began"><property name="Type" value="Event"/><property name="Color" value="Purple"/><property name="ID" value="106"/></card>
+<card id="514b970f-6ada-11e3-b6e8-e0cb4ee82d3a" name="Crême de la Crême"><property name="Type" value="Event"/><property name="Color" value="White"/><property name="ID" value="107"/></card>
+<card id="514bbe21-6ada-11e3-9d63-e0cb4ee82d3a" name="Critter Cavalry"><property name="Type" value="Event"/><property name="Color" value="Yellow"/><property name="ID" value="108"/></card>
+<card id="514be530-6ada-11e3-9343-e0cb4ee82d3a" name="Double-check the Checklist"><property name="Type" value="Event"/><property name="Color" value="Purple"/><property name="ID" value="109"/></card>
+<card id="514c0c40-6ada-11e3-aa3c-e0cb4ee82d3a" name="Downright Dangerous"><property name="Type" value="Event"/><property name="Color" value="Pink"/><property name="ID" value="110"/></card>
+<card id="514c3351-6ada-11e3-b66d-e0cb4ee82d3a" name="Duck and Cover"><property name="Type" value="Event"/><property name="Color" value="Orange"/><property name="ID" value="111"/></card>
+<card id="514c5a61-6ada-11e3-8917-e0cb4ee82d3a" name="Eeyup"><property name="Type" value="Event"/><property name="Color" value="Orange"/><property name="ID" value="112"/></card>
+<card id="514c8170-6ada-11e3-8bf7-e0cb4ee82d3a" name="Here's Your Invitation!"><property name="Type" value="Event"/><property name="Color" value="Pink"/><property name="ID" value="113"/></card>
+<card id="514ca880-6ada-11e3-bdd3-e0cb4ee82d3a" name="Let's Get This Party Started"><property name="Type" value="Event"/><property name="Color" value="Pink"/><property name="ID" value="114"/></card>
+<card id="514ccf8f-6ada-11e3-b7f7-e0cb4ee82d3a" name="Fears Must be Faced"><property name="Type" value="Event"/><property name="Color" value="Blue"/><property name="ID" value="115"/></card>
+<card id="514ccf90-6ada-11e3-b0b8-e0cb4ee82d3a" name="Nurture With Knowledge"><property name="Type" value="Event"/><property name="Color" value="Yellow"/><property name="ID" value="116"/></card>
+<card id="514cf69e-6ada-11e3-88a3-e0cb4ee82d3a" name="Gotta Go Fast"><property name="Type" value="Event"/><property name="Color" value="Blue"/><property name="ID" value="117"/></card>
+<card id="514d1dae-6ada-11e3-91ab-e0cb4ee82d3a" name="Stand Still!"><property name="Type" value="Event"/><property name="Color" value="White"/><property name="ID" value="118"/></card>
+<card id="514d44c0-6ada-11e3-b9ef-e0cb4ee82d3a" name="Straighten Up &amp; Fly Right"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="119"/></card>
+<card id="514d6bcf-6ada-11e3-8bae-e0cb4ee82d3a" name="Swing Into Action"><property name="Type" value="Event"/><property name="Color" value="Blue"/><property name="ID" value="120"/></card>
+<card id="514d92de-6ada-11e3-92fd-e0cb4ee82d3a" name="Team Effort"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="121"/></card>
+<card id="514db9f0-6ada-11e3-b77d-e0cb4ee82d3a" name="The Big Guns"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="122"/></card>
+<card id="514de100-6ada-11e3-91bb-e0cb4ee82d3a" name="The Horror! The Horror!"><property name="Type" value="Event"/><property name="Color" value="Yellow"/><property name="ID" value="123"/></card>
+<card id="514e080f-6ada-11e3-b19a-e0cb4ee82d3a" name="Spike, Take a Letter"><property name="Type" value="Event"/><property name="Color" value="Purple"/><property name="ID" value="124"/></card>
+<card id="514e2f1e-6ada-11e3-93d6-e0cb4ee82d3a" name="Undercover Adventure"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="125"/></card>
+<card id="514e5630-6ada-11e3-8fd1-e0cb4ee82d3a" name="Watch in Awe"><property name="Type" value="Event"/><property name="Color" value="Purple"/><property name="ID" value="126"/></card>
+<card id="514e7d40-6ada-11e3-9556-e0cb4ee82d3a" name="What Went Wrong?"><property name="Type" value="Event"/><property name="Color" value="Blue"/><property name="ID" value="127"/></card>
+<card id="514ea44f-6ada-11e3-862f-e0cb4ee82d3a" name="Whoa There Nelly!"><property name="Type" value="Event"/><property name="Color" value="Orange"/><property name="ID" value="128"/></card>
+<card id="514ecb61-6ada-11e3-b9ca-e0cb4ee82d3a" name="Working Together"><property name="Type" value="Event"/><property name="Color" value="None"/><property name="ID" value="129"/></card>
+<card id="514ef270-6ada-11e3-b8d2-e0cb4ee82d3a" name="Yay!"><property name="Type" value="Event"/><property name="Color" value="Yellow"/><property name="ID" value="130"/></card>
+<card id="514f1980-6ada-11e3-b97f-e0cb4ee82d3a" name="Assault Cake"><property name="Type" value="Resource"/><property name="Color" value="Pink"/><property name="ID" value="131"/></card>
+<card id="514f4091-6ada-11e3-b3a9-e0cb4ee82d3a" name="Carousel Boutique"><property name="Type" value="Resource"/><property name="Color" value="White"/><property name="ID" value="132"/></card>
+<card id="514f67a1-6ada-11e3-a400-e0cb4ee82d3a" name="Tangled Coiffure"><property name="Type" value="Resource"/><property name="Color" value="White"/><property name="ID" value="133"/></card>
+<card id="514f8eb0-6ada-11e3-83fe-e0cb4ee82d3a" name="Critter Cuisine"><property name="Type" value="Resource"/><property name="Color" value="Yellow"/><property name="ID" value="134"/></card>
+<card id="514f8eb1-6ada-11e3-ac05-e0cb4ee82d3a" name="Fighting for Friendship"><property name="Type" value="Resource"/><property name="Color" value="Purple"/><property name="ID" value="135"/></card>
+<card id="514fb5c0-6ada-11e3-9732-e0cb4ee82d3a" name="Foal Free Press"><property name="Type" value="Resource"/><property name="Color" value="Blue"/><property name="ID" value="136"/></card>
+<card id="514fdccf-6ada-11e3-a235-e0cb4ee82d3a" name="Focused Study"><property name="Type" value="Resource"/><property name="Color" value="Purple"/><property name="ID" value="137"/></card>
+<card id="515003de-6ada-11e3-9bd3-e0cb4ee82d3a" name="Golden Oak Library"><property name="Type" value="Resource"/><property name="Color" value="Purple"/><property name="ID" value="138"/></card>
+<card id="51502aee-6ada-11e3-8fd4-e0cb4ee82d3a" name="Hard Hat"><property name="Type" value="Resource"/><property name="Color" value="Orange"/><property name="ID" value="139"/></card>
+<card id="51505200-6ada-11e3-b05a-e0cb4ee82d3a" name="Lead Pony Badge"><property name="Type" value="Resource"/><property name="Color" value="Blue"/><property name="ID" value="140"/></card>
+<card id="5150790f-6ada-11e3-aafb-e0cb4ee82d3a" name="Marvelous Chapeau"><property name="Type" value="Resource"/><property name="Color" value="White"/><property name="ID" value="141"/></card>
+<card id="5150a01e-6ada-11e3-a07a-e0cb4ee82d3a" name="Outshine Them All"><property name="Type" value="Resource"/><property name="Color" value="Purple"/><property name="ID" value="142"/></card>
+<card id="5150c730-6ada-11e3-b871-e0cb4ee82d3a" name="Ridiculous Outfit"><property name="Type" value="Resource"/><property name="Color" value="Pink"/><property name="ID" value="143"/></card>
+<card id="5150ee40-6ada-11e3-a510-e0cb4ee82d3a" name="Rubber Chicken"><property name="Type" value="Resource"/><property name="Color" value="Pink"/><property name="ID" value="144"/></card>
+<card id="5151154f-6ada-11e3-8420-e0cb4ee82d3a" name="Sweet Apple Acres"><property name="Type" value="Resource"/><property name="Color" value="Orange"/><property name="ID" value="145"/></card>
+<card id="51513c61-6ada-11e3-9180-e0cb4ee82d3a" name="Picnic Lunch"><property name="Type" value="Resource"/><property name="Color" value="Yellow"/><property name="ID" value="146"/></card>
+<card id="51516370-6ada-11e3-b412-e0cb4ee82d3a" name="The Ponyville Express"><property name="Type" value="Resource"/><property name="Color" value="White"/><property name="ID" value="147"/></card>
+<card id="51518a80-6ada-11e3-80b1-e0cb4ee82d3a" name="Too Many Bandages"><property name="Type" value="Resource"/><property name="Color" value="Yellow"/><property name="ID" value="148"/></card>
+<card id="5151b18f-6ada-11e3-9910-e0cb4ee82d3a" name="Too Much Pie"><property name="Type" value="Resource"/><property name="Color" value="Orange"/><property name="ID" value="149"/></card>
+<card id="5151d8a1-6ada-11e3-a30d-e0cb4ee82d3a" name="Tricksy Hat"><property name="Type" value="Resource"/><property name="Color" value="Purple"/><property name="ID" value="150"/></card>
+<card id="5151ffb0-6ada-11e3-a093-e0cb4ee82d3a" name="Two Bits"><property name="Type" value="Resource"/><property name="Color" value="Blue"/><property name="ID" value="151"/></card>
+<card id="515226c0-6ada-11e3-a15f-e0cb4ee82d3a" name="Ahuizotl"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="152"/></card>
+<card id="51524dd1-6ada-11e3-84ae-e0cb4ee82d3a" name="Brown Parasprite™"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="153"/></card>
+<card id="515274de-6ada-11e3-9342-e0cb4ee82d3a" name="Flam™"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="154"/></card>
+<card id="51529bee-6ada-11e3-ae18-e0cb4ee82d3a" name="Flim™"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="155"/></card>
+<card id="5152c300-6ada-11e3-ba39-e0cb4ee82d3a" name="Parasprite™ Swarm"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="156"/></card>
+<card id="5152ea0f-6ada-11e3-afc8-e0cb4ee82d3a" name="Purple Parasprite™"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="157"/></card>
+<card id="5152ea10-6ada-11e3-bdda-e0cb4ee82d3a" name="Timberwolf™"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="158"/></card>
+<card id="5153111e-6ada-11e3-927b-e0cb4ee82d3a" name="Wild Manticore"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="159"/></card>
+<card id="51533830-6ada-11e3-89cb-e0cb4ee82d3a" name="Yellow Parasprite™"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="160"/></card>
+<card id="7113e1b0-6ada-11e3-9a32-e0cb4ee82d3a" name="A Thorn in His Paw"><property name="Type" value="Problem"/><property name="Color" value="Yellow"/><property name="ID" value="161"/></card>
+<card id="711408c0-6ada-11e3-9cc3-e0cb4ee82d3a" name="Avalanche!"><property name="Type" value="Problem"/><property name="Color" value="Orange"/><property name="ID" value="162"/></card>
+<card id="71142fcf-6ada-11e3-a613-e0cb4ee82d3a" name="Kitchen au Flambé"><property name="Type" value="Problem"/><property name="Color" value="White"/><property name="ID" value="163"/></card>
+<card id="711456de-6ada-11e3-9ed2-e0cb4ee82d3a" name="Bunny Breakout"><property name="Type" value="Problem"/><property name="Color" value="Yellow"/><property name="ID" value="164"/></card>
+<card id="71147dee-6ada-11e3-9092-e0cb4ee82d3a" name="Bunny Stampede"><property name="Type" value="Problem"/><property name="Color" value="Yellow"/><property name="ID" value="165"/></card>
+<card id="7114a500-6ada-11e3-9d13-e0cb4ee82d3a" name="The Problem with Parasprites"><property name="Type" value="Problem"/><property name="Color" value="Blue"/><property name="ID" value="166"/></card>
+<card id="7114cc0f-6ada-11e3-b904-e0cb4ee82d3a" name="Clearing Gloomy Skies"><property name="Type" value="Problem"/><property name="Color" value="Blue"/><property name="ID" value="167"/></card>
+<card id="7114f31e-6ada-11e3-826d-e0cb4ee82d3a" name="Cloudbursting"><property name="Type" value="Problem"/><property name="Color" value="Blue"/><property name="ID" value="168"/></card>
+<card id="71151a30-6ada-11e3-a240-e0cb4ee82d3a" name="Adventures in Foalsitting"><property name="Type" value="Problem"/><property name="Color" value="Pink"/><property name="ID" value="169"/></card>
+<card id="71154140-6ada-11e3-9000-e0cb4ee82d3a" name="Emergency Dress Order"><property name="Type" value="Problem"/><property name="Color" value="White"/><property name="ID" value="170"/></card>
+<card id="7115684f-6ada-11e3-b209-e0cb4ee82d3a" name="795 Wing Power"><property name="Type" value="Problem"/><property name="Color" value="Blue"/><property name="ID" value="171"/></card>
+<card id="71158f61-6ada-11e3-a50e-e0cb4ee82d3a" name="Mean Meanie Pants"><property name="Type" value="Problem"/><property name="Color" value="Pink"/><property name="ID" value="172"/></card>
+<card id="7115b670-6ada-11e3-99eb-e0cb4ee82d3a" name="Hungry Hungry Caterpillars"><property name="Type" value="Problem"/><property name="Color" value="Orange"/><property name="ID" value="173"/></card>
+<card id="7115dd80-6ada-11e3-8618-e0cb4ee82d3a" name="I Can Fix It!"><property name="Type" value="Problem"/><property name="Color" value="White"/><property name="ID" value="174"/></card>
+<card id="7116048f-6ada-11e3-9941-e0cb4ee82d3a" name="I Need Answers"><property name="Type" value="Problem"/><property name="Color" value="Purple"/><property name="ID" value="175"/></card>
+<card id="71162ba1-6ada-11e3-a501-e0cb4ee82d3a" name="It's a Twister!"><property name="Type" value="Problem"/><property name="Color" value="Blue"/><property name="ID" value="176"/></card>
+<card id="711652b0-6ada-11e3-b219-e0cb4ee82d3a" name="It's Alive!"><property name="Type" value="Problem"/><property name="Color" value="Purple"/><property name="ID" value="177"/></card>
+<card id="711679c0-6ada-11e3-88f4-e0cb4ee82d3a" name="Looking for Trouble"><property name="Type" value="Problem"/><property name="Color" value="Blue"/><property name="ID" value="178"/></card>
+<card id="711679c1-6ada-11e3-83d0-e0cb4ee82d3a" name="May the Best Pet Win"><property name="Type" value="Problem"/><property name="Color" value="Yellow"/><property name="ID" value="179"/></card>
+<card id="7116a0d1-6ada-11e3-b2c2-e0cb4ee82d3a" name="Who is Gabby Gums?"><property name="Type" value="Problem"/><property name="Color" value="White"/><property name="ID" value="180"/></card>
+<card id="7116eeee-6ada-11e3-b67d-e0cb4ee82d3a" name="Not Enough Pinkie Pies"><property name="Type" value="Problem"/><property name="Color" value="Pink"/><property name="ID" value="181"/></card>
+<card id="7116eeef-6ada-11e3-a060-e0cb4ee82d3a" name="Monitor EVERYTHING!"><property name="Type" value="Problem"/><property name="Color" value="Purple"/><property name="ID" value="182"/></card>
+<card id="71171600-6ada-11e3-b360-e0cb4ee82d3a" name="Monster of a Minotaur"><property name="Type" value="Problem"/><property name="Color" value="Yellow"/><property name="ID" value="183"/></card>
+<card id="71173d0f-6ada-11e3-987c-e0cb4ee82d3a" name="My Pinkie Sense is Tingling"><property name="Type" value="Problem"/><property name="Color" value="Pink"/><property name="ID" value="184"/></card>
+<card id="7117641e-6ada-11e3-90ee-e0cb4ee82d3a" name="Maybes are for Babies"><property name="Type" value="Problem"/><property name="Color" value="Pink"/><property name="ID" value="185"/></card>
+<card id="71178b30-6ada-11e3-a5c5-e0cb4ee82d3a" name="Fashion Feast"><property name="Type" value="Problem"/><property name="Color" value="White"/><property name="ID" value="186"/></card>
+<card id="7117b240-6ada-11e3-88d2-e0cb4ee82d3a" name="Parasprite Pandemic"><property name="Type" value="Problem"/><property name="Color" value="Purple"/><property name="ID" value="187"/></card>
+<card id="7117d94f-6ada-11e3-8d3a-e0cb4ee82d3a" name="Ponyville in a Bottle"><property name="Type" value="Problem"/><property name="Color" value="Purple"/><property name="ID" value="188"/></card>
+<card id="7118005e-6ada-11e3-8368-e0cb4ee82d3a" name="Raze This Barn"><property name="Type" value="Problem"/><property name="Color" value="Orange"/><property name="ID" value="189"/></card>
+<card id="71182770-6ada-11e3-b60e-e0cb4ee82d3a" name="Runaway Cart"><property name="Type" value="Problem"/><property name="Color" value="Orange"/><property name="ID" value="190"/></card>
+<card id="71184e80-6ada-11e3-9978-e0cb4ee82d3a" name="Save Sweet Apple Acres"><property name="Type" value="Problem"/><property name="Color" value="Orange"/><property name="ID" value="191"/></card>
+<card id="7118758f-6ada-11e3-8475-e0cb4ee82d3a" name="Special Delivery!"><property name="Type" value="Problem"/><property name="Color" value="Pink"/><property name="ID" value="192"/></card>
+<card id="71189ca1-6ada-11e3-8845-e0cb4ee82d3a" name="Ponynapped!"><property name="Type" value="Problem"/><property name="Color" value="White"/><property name="ID" value="193"/></card>
+<card id="7118c3b0-6ada-11e3-877f-e0cb4ee82d3a" name="This Way, Little Ones"><property name="Type" value="Problem"/><property name="Color" value="Yellow"/><property name="ID" value="194"/></card>
+<card id="7118eac0-6ada-11e3-ab2f-e0cb4ee82d3a" name="Want It, Need It!"><property name="Type" value="Problem"/><property name="Color" value="Orange"/><property name="ID" value="195"/></card>
+<card id="711911d1-6ada-11e3-8a1d-e0cb4ee82d3a" name="Wrapping up Winter"><property name="Type" value="Problem"/><property name="Color" value="Purple"/><property name="ID" value="196"/></card>
+<card id="9c8d9900-6bcd-11e3-adb4-e0cb4ee82d3a" name="Dr, Hooves™ Unblinking"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="197"/></card>
+<card id="9c8d9901-6bcd-11e3-9eef-e0cb4ee82d3a" name="Rainbow Dash™ Winged Wonder"><property name="Type" value="Friend"/><property name="Color" value="Blue"/><property name="ID" value="198"/></card>
+<card id="51535f40-6ada-11e3-b02d-e0cb4ee82d3a" name="Big Mac™ Immense Apple"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="199"/></card>
+<card id="5153864f-6ada-11e3-a879-e0cb4ee82d3a" name="Ship Shape Heavy Lifter"><property name="Type" value="Friend"/><property name="Color" value="Orange"/><property name="ID" value="200"/></card>
+<card id="5153ad5e-6ada-11e3-aacc-e0cb4ee82d3a" name="Lyra Heartstrings™ Bonafide"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="201"/></card>
+<card id="5153d470-6ada-11e3-aa30-e0cb4ee82d3a" name="Screwy Barking Mad"><property name="Type" value="Friend"/><property name="Color" value="Pink"/><property name="ID" value="202"/></card>
+<card id="5153fb80-6ada-11e3-8346-e0cb4ee82d3a" name="Twilight Sparkle™ Ursa Vanquisher"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="203"/></card>
+<card id="5154228f-6ada-11e3-9236-e0cb4ee82d3a" name="Zecora™ Everfree Guru"><property name="Type" value="Friend"/><property name="Color" value="Purple"/><property name="ID" value="204"/></card>
+<card id="515449a1-6ada-11e3-aa24-e0cb4ee82d3a" name="Octavia Virtuoso"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="205"/></card>
+<card id="9c8d9902-6bcd-11e3-a588-e0cb4ee82d3a" name="Rarity Truly Outrageous"><property name="Type" value="Friend"/><property name="Color" value="White"/><property name="ID" value="206"/></card>
+<card id="5154e5e1-6ada-11e3-839a-e0cb4ee82d3a" name="Philomena™ Bird of a Feather"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="207"/></card>
+<card id="51550cf0-6ada-11e3-80c2-e0cb4ee82d3a" name="Princess Celestia™ Ray of Sunshine"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="208"/></card>
+<card id="51553400-6ada-11e3-8dfb-e0cb4ee82d3a" name="Heart's Desire"><property name="Type" value="Resource"/><property name="Color" value="None"/><property name="ID" value="209"/></card>
+<card id="51555b0f-6ada-11e3-af0b-e0cb4ee82d3a" name="Nightmare Moon™"><property name="Type" value="Troublemaker"/><property name="Color" value="None"/><property name="ID" value="210"/></card>
+<card id="5155821e-6ada-11e3-a80e-e0cb4ee82d3a" name="Fluttershy™ Monster Tamer"><property name="Type" value="Friend"/><property name="Color" value="Yellow"/><property name="ID" value="211"/></card>
+
+</cards>
+
+</set>
