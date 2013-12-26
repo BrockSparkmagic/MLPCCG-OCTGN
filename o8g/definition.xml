@@ -37,7 +37,8 @@
       <property name="OpponentSide" type="String" textKind="Free" />
       <property name="Text" type="String" textKind="Free" />
   </card>
-  <table name="Table" visibility="all" ordered="False" background="Images/Board.jpg" width="600" height="600" backgroundStyle="uniformToFill">
+  <table name="Table" visibility="all" ordered="False" board="Images/Board.png" boardPosition="-275,-275,550,550" width="550" height="550" background="Images/background.jpg"  backgroundStyle="uniformToFill">
+    <cardaction menu="Flip Card" shortcut="ctrl+f" execute="flip" />
   </table>
   <player summary="Hand:{#Hand} Score:{#Score} Actions:{#Action Tokens}">
     <hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" width="63" height="88" icon="groups/hand.png">

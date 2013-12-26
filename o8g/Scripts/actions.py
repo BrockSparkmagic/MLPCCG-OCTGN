@@ -8,6 +8,23 @@ def debugNotify(msg, *a):
       msg = "Error formatting log message: %s" % repr(e)
     notify(msg)
 
+def flip(card, x = 0, y = 0):
+    mute()
+    if card.type == "Mane":
+      if card.alternate == 'boosted':
+        notify("{} flips {} to the Start side.".format(me, card))
+        card.switchTo('')
+      else:
+        notify("{} flips {} to the Boosted side.".format(me, card))
+        card.switchTo('boosted')
+    else:
+      if card.isFaceUp == True:
+        notify("{} flips {} face down.".format(me, card))
+        card.isFaceUp = False
+      else:
+        card.isFaceUp = True
+        notify("{} flips {} face up.".format(me, card))
+
 
 def checkMovedCard(player,card,fromGroup,toGroup,oldIndex,index,oldX,oldY,x,y,isScriptMove):
   mute()
