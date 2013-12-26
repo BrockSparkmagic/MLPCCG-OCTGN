@@ -38,7 +38,8 @@
       <property name="Text" type="String" textKind="Free" />
   </card>
   <table name="Table" visibility="all" ordered="False" board="Images/Board.png" boardPosition="-275,-275,550,550" width="550" height="550" background="Images/background.jpg"  backgroundStyle="uniformToFill">
-    <cardaction menu="Flip Card" execute="flip" default="True"/>
+    <cardaction menu="Flip Card" execute="flip"/>
+    <cardaction menu="Tap Card" execute="tap" default="True"/>
     <groupaction menu="Create Reference Cards" execute="createReferenceCards"/>
 
   </table>

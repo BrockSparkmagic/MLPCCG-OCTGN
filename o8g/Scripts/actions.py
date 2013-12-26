@@ -37,13 +37,15 @@ def checkMovedCard(player,card,fromGroup,toGroup,oldIndex,index,oldX,oldY,x,y,is
   mute()
   debugNotify("isScriptMove = %s", isScriptMove)
   if isScriptMove: return # If the card move happened via a script, then all automations should have happened already.
-  if card.type == "Problem" and toGroup == table:
-      card.orientation = Rot90
+  if card.type == "Problem" and toGroup == table and not (card.orientation & Rot90):
+      card.orientation |= Rot90
 
 def createReferenceCards(group, x=0, y=0):
   table.create(scoreCardID, 0, 0, 1)
   table.create(turnCardID, 99, 0, 1)
 
+def tap(card, x=0, y=0):
+  card.orientation ^= Rot90
 
 def resetAll():
   pass
