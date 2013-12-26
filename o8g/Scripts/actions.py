@@ -40,8 +40,10 @@ def checkMovedCard(player,card,fromGroup,toGroup,oldIndex,index,oldX,oldY,x,y,is
   if card.type == "Problem" and toGroup == table:
       card.orientation = Rot90
 
-def checkDeck(player,groups):
-  pass
+def createReferenceCards(group, x=0, y=0):
+  table.create(scoreCardID, 0, 0, 1)
+  table.create(turnCardID, 99, 0, 1)
+
 
 def resetAll():
   pass
