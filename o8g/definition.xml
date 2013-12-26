@@ -43,8 +43,6 @@
   <player summary="Hand:{#Hand} Score:{#Score} Actions:{#Action Tokens}">
     <hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" width="63" height="88" icon="groups/hand.png">
     </hand>
-    <group name="Mane" shortcut="ctrl+M" visibility="none" width="63" height="88" icon="groups/deck.png">
-    </group>
     <group name="Deck" shortcut="ctrl+E" visibility="none" width="63" height="88" icon="groups/deck.png">
       <groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
     </group>
@@ -56,7 +54,7 @@
     <counter name="Action Tokens" icon="Counters/actiontoken.png" reset="True" />
   </player>
   <deck>
-    <section name="Mane Character" group="Mane" />
+    <section name="Mane Character" group="Hand" />
     <section name="Draw Deck" group="Deck" />
     <section name="Problem Deck" group="Problems" />
   </deck>
