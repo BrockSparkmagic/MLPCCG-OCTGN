@@ -1,4 +1,23 @@
-aj_deck_nums = [2, 4, 22, 25, 26, 28, 29, 30, 33, 52, 54, 55, 58, 60, 63, 98, 102, 109, 111, 135, 139, 142, 149, 155, 157, 162, 175, 177, 182, 189, 190]
+debugLevel = 0
+
+def debugNotify(msg, *a):
+  if debugLevel > 0:
+    try:
+      msg = msg % a
+    except Exception as e:
+      msg = "Error formatting log message: %s" % repr(e)
+    notify(msg)
 
 
+def checkMovedCard(player,card,fromGroup,toGroup,oldIndex,index,oldX,oldY,x,y,isScriptMove):
+  mute()
+  debugNotify("isScriptMove = %s", isScriptMove)
+  if isScriptMove: return # If the card move happened via a script, then all automations should have happened already.
+  if card.type == "Problem" and toGroup == table:
+      card.orientation = Rot90
 
+def checkDeck(player,groups):
+  pass
+
+def resetAll():
+  pass
