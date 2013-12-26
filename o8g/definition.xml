@@ -46,9 +46,12 @@
     <group name="Mane" shortcut="ctrl+M" visibility="none" width="63" height="88" icon="groups/deck.png">
     </group>
     <group name="Deck" shortcut="ctrl+E" visibility="none" width="63" height="88" icon="groups/deck.png">
+      <groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
     </group>
     <group name="Problems" shortcut="ctrl+R" visibility="none" width="63" height="88" icon="groups/problems.png">
+      <groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
     </group>
+
     <counter name="Score" icon="Counters/score.png" reset="True" />
     <counter name="Action Tokens" icon="Counters/actiontoken.png" reset="True" />
   </player>

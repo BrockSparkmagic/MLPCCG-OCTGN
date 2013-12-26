@@ -1,5 +1,8 @@
 <set gameId="97c57de5-acec-418c-8f51-460aac7b386d" gameVersion="1.0.0" id="ce33f651-6adf-11e3-91f8-e0cb4ee82d3a" name="Premier Set" version="1.0.0.0">
   <cards>
+    <card id="eff15a21-6e14-11e3-9bd2-e0cb4ee82d3a" name="Score Card"/>
+    <card id="f04ce79e-6e14-11e3-afbe-e0cb4ee82d3a" name="Turn Card"/>
+
     <card id="22b40e21-6bcd-11e3-958f-e0cb4ee82d3a" name="Rainbow Dash Flier Extraodinaire">
       <property name="Type" value="Mane" />
       <property name="Color" value="Blue" />

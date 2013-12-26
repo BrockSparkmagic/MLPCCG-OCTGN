@@ -1,5 +1,9 @@
 debugLevel = 0
 
+scoreCardID = "eff15a21-6e14-11e3-9bd2-e0cb4ee82d3a"
+turnCardID = "f04ce79e-6e14-11e3-afbe-e0cb4ee82d3a"
+
+
 def debugNotify(msg, *a):
   if debugLevel > 0:
     try:
@@ -24,6 +28,9 @@ def flip(card, x = 0, y = 0):
       else:
         card.isFaceUp = True
         notify("{} flips {} face up.".format(me, card))
+
+def shuffle(group, x = 0, y = 0):
+  group.shuffle()
 
 
 def checkMovedCard(player,card,fromGroup,toGroup,oldIndex,index,oldX,oldY,x,y,isScriptMove):
