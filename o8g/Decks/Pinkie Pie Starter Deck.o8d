@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="97c57de5-acec-418c-8f51-460aac7b386d">
+  <section name="Mane Character" shared="False">
+    <card qty="1" id="22b40e23-6bcd-11e3-9656-e0cb4ee82d3a">Pinkie Pie™ Party Animal</card>
+  </section>
+  <section name="Draw Deck" shared="False">
+    <card qty="2" id="51415de1-6ada-11e3-bd9b-e0cb4ee82d3a">Apple Brown Betty Pastry Chef</card>
+    <card qty="3" id="51415de2-6ada-11e3-9b09-e0cb4ee82d3a">Berry Dreams™ Pom-Pom Pony</card>
+    <card qty="2" id="514184f0-6ada-11e3-886e-e0cb4ee82d3a">Big Top Silly Pony</card>
+    <card qty="2" id="5141d30f-6ada-11e3-8781-e0cb4ee82d3a">Dance Fever Disco King</card>
+    <card qty="2" id="5142212e-6ada-11e3-9dec-e0cb4ee82d3a">Flitter™ Ribbion Wielder</card>
+    <card qty="2" id="51426f4f-6ada-11e3-b7d3-e0cb4ee82d3a">High Spirits Life Enthusiast</card>
+    <card qty="2" id="51430b8f-6ada-11e3-871e-e0cb4ee82d3a">Ol' Salt Salt Blocked</card>
+    <card qty="2" id="51463fe1-6ada-11e3-810b-e0cb4ee82d3a">Hoity Toity™ Vogue Authority</card>
+    <card qty="2" id="51468e00-6ada-11e3-8858-e0cb4ee82d3a">Pearly Stitch Crotchety Crocheter</card>
+    <card qty="2" id="5146dc21-6ada-11e3-82ab-e0cb4ee82d3a">Rising Star In the Spotlight</card>
+    <card qty="2" id="51470330-6ada-11e3-bb03-e0cb4ee82d3a">Noteworthy™ Humdinger</card>
+    <card qty="2" id="5147514f-6ada-11e3-9d16-e0cb4ee82d3a">Royal Riff™ Songster</card>
+    <card qty="3" id="5147785e-6ada-11e3-8090-e0cb4ee82d3a">Sugar Twist Twister Sister</card>
+    <card qty="3" id="514a106e-6ada-11e3-ab62-e0cb4ee82d3a">Getting Hooves Dirty</card>
+    <card qty="1" id="514b970f-6ada-11e3-b6e8-e0cb4ee82d3a">Crême de la Crême</card>
+    <card qty="1" id="514c0c40-6ada-11e3-aa3c-e0cb4ee82d3a">Downright Dangerous</card>
+    <card qty="1" id="514c8170-6ada-11e3-8bf7-e0cb4ee82d3a">Here's Your Invitation!</card>
+    <card qty="2" id="5150790f-6ada-11e3-aafb-e0cb4ee82d3a">Marvelous Chapeau</card>
+    <card qty="2" id="5150c730-6ada-11e3-b871-e0cb4ee82d3a">Ridiculous Outfit</card>
+    <card qty="1" id="5150ee40-6ada-11e3-a510-e0cb4ee82d3a">Rubber Chicken</card>
+    <card qty="2" id="51516370-6ada-11e3-b412-e0cb4ee82d3a">The Ponyville Express</card>
+    <card qty="2" id="51529bee-6ada-11e3-ae18-e0cb4ee82d3a">Flim™</card>
+    <card qty="2" id="5152ea0f-6ada-11e3-afc8-e0cb4ee82d3a">Purple Parasprite™</card>
+  </section>
+  <section name="Problem Deck" shared="False">
+    <card qty="2" id="71151a30-6ada-11e3-a240-e0cb4ee82d3a">Adventures in Foalsitting</card>
+    <card qty="2" id="71154140-6ada-11e3-9000-e0cb4ee82d3a">Emergency Dress Order</card>
+    <card qty="2" id="71173d0f-6ada-11e3-987c-e0cb4ee82d3a">My Pinkie Sense is Tingling</card>
+    <card qty="2" id="7117641e-6ada-11e3-90ee-e0cb4ee82d3a">Maybes are for Babies</card>
+    <card qty="2" id="7118758f-6ada-11e3-8475-e0cb4ee82d3a">Special Delivery!</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

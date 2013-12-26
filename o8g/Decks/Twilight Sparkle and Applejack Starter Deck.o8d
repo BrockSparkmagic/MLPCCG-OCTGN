@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="97c57de5-acec-418c-8f51-460aac7b386d">
+  <section name="Mane Character" shared="False">
+    <card qty="1" id="22b40e24-6bcd-11e3-9996-e0cb4ee82d3a">Twilight Sparkle Faithful Student</card>
+    <card qty="1" id="22b40e22-6bcd-11e3-9743-e0cb4ee82d3a">Applejack Steadfast Farmpony</card>
+  </section>
+  <section name="Draw Deck" shared="False">
+    <card qty="2" id="513f620f-6ada-11e3-b949-e0cb4ee82d3a">Apple Cobbler™ Headstrong</card>
+    <card qty="2" id="513fb030-6ada-11e3-a00c-e0cb4ee82d3a">Auntie Applesauce™ Gum Flapper</card>
+    <card qty="2" id="513fd740-6ada-11e3-a141-e0cb4ee82d3a">Cherry Jubilee™ Queen of the Hill</card>
+    <card qty="2" id="51402561-6ada-11e3-93b4-e0cb4ee82d3a">Granny Smith™ Apple Elder</card>
+    <card qty="2" id="51404c70-6ada-11e3-bf36-e0cb4ee82d3a">Igneous Rock™ Pebble Pusher</card>
+    <card qty="2" id="51407380-6ada-11e3-b793-e0cb4ee82d3a">Drill Bit Destruction Worker</card>
+    <card qty="2" id="5140e8b0-6ada-11e3-bafe-e0cb4ee82d3a">Red Gala™ Favorite Cousin</card>
+    <card qty="2" id="514380c1-6ada-11e3-8394-e0cb4ee82d3a">Professor Neigh Algebraic!</card>
+    <card qty="3" id="5143cee1-6ada-11e3-9aef-e0cb4ee82d3a">Comet Tail™ Hale Bopper</card>
+    <card qty="3" id="5143f5f0-6ada-11e3-a127-e0cb4ee82d3a">Mint Jewelup A Cut Above</card>
+    <card qty="2" id="51446b1e-6ada-11e3-94c7-e0cb4ee82d3a">Mayor Mare™ Elected Official</card>
+    <card qty="2" id="5144b940-6ada-11e3-b721-e0cb4ee82d3a">Blue Moon Ol' Blue Eyes</card>
+    <card qty="2" id="51452e70-6ada-11e3-935b-e0cb4ee82d3a">Lady Justice Judge &amp; Jury</card>
+    <card qty="3" id="514a3781-6ada-11e3-948e-e0cb4ee82d3a">Apples and Oranges</card>
+    <card qty="1" id="514ad3c0-6ada-11e3-bfc9-e0cb4ee82d3a">A Bully and a Beast</card>
+    <card qty="1" id="514be530-6ada-11e3-9343-e0cb4ee82d3a">Double-check the Checklist</card>
+    <card qty="1" id="514c3351-6ada-11e3-b66d-e0cb4ee82d3a">Duck and Cover</card>
+    <card qty="2" id="514f8eb1-6ada-11e3-ac05-e0cb4ee82d3a">Fighting for Friendship</card>
+    <card qty="2" id="51502aee-6ada-11e3-8fd4-e0cb4ee82d3a">Hard Hat</card>
+    <card qty="2" id="5150a01e-6ada-11e3-a07a-e0cb4ee82d3a">Outshine Them All</card>
+    <card qty="1" id="5151b18f-6ada-11e3-9910-e0cb4ee82d3a">Too Much Pie</card>
+    <card qty="2" id="51529bee-6ada-11e3-ae18-e0cb4ee82d3a">Flim™</card>
+    <card qty="2" id="5152ea0f-6ada-11e3-afc8-e0cb4ee82d3a">Purple Parasprite™</card>
+  </section>
+  <section name="Problem Deck" shared="False">
+    <card qty="2" id="711408c0-6ada-11e3-9cc3-e0cb4ee82d3a">Avalanche!</card>
+    <card qty="2" id="7116048f-6ada-11e3-9941-e0cb4ee82d3a">I Need Answers</card>
+    <card qty="2" id="711652b0-6ada-11e3-b219-e0cb4ee82d3a">It's Alive!</card>
+    <card qty="1" id="7116eeef-6ada-11e3-a060-e0cb4ee82d3a">Monitor EVERYTHING!</card>
+    <card qty="1" id="7118005e-6ada-11e3-8368-e0cb4ee82d3a">Raze This Barn</card>
+    <card qty="2" id="71182770-6ada-11e3-b60e-e0cb4ee82d3a">Runaway Cart</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

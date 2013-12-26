@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="97c57de5-acec-418c-8f51-460aac7b386d">
+  <section name="Mane Character" shared="False">
+    <card qty="1" id="22b40e26-6bcd-11e3-b0c6-e0cb4ee82d3a">Fluttershy™ Beastmaster</card>
+  </section>
+  <section name="Draw Deck" shared="False">
+    <card qty="2" id="513f620f-6ada-11e3-b949-e0cb4ee82d3a">Apple Cobbler™ Headstrong</card>
+    <card qty="2" id="513fb030-6ada-11e3-a00c-e0cb4ee82d3a">Auntie Applesauce™ Gum Flapper</card>
+    <card qty="2" id="51402561-6ada-11e3-93b4-e0cb4ee82d3a">Granny Smith™ Apple Elder</card>
+    <card qty="3" id="51404c70-6ada-11e3-bf36-e0cb4ee82d3a">Igneous Rock™ Pebble Pusher</card>
+    <card qty="2" id="51407380-6ada-11e3-b793-e0cb4ee82d3a">Drill Bit Destruction Worker</card>
+    <card qty="2" id="5140e8b0-6ada-11e3-bafe-e0cb4ee82d3a">Red Gala™ Favorite Cousin</card>
+    <card qty="2" id="51479f6e-6ada-11e3-818a-e0cb4ee82d3a">Amethyst Star™ Animal Leader</card>
+    <card qty="2" id="5147c680-6ada-11e3-a9fc-e0cb4ee82d3a">Blue Jay Warbler</card>
+    <card qty="2" id="51483bb0-6ada-11e3-ae41-e0cb4ee82d3a">Forest Owl Novice Assistant</card>
+    <card qty="3" id="514862c0-6ada-11e3-8926-e0cb4ee82d3a">House Mouse Little Pipsqueak</card>
+    <card qty="2" id="514889cf-6ada-11e3-b33e-e0cb4ee82d3a">Hummingway Fine Feathered Friend</card>
+    <card qty="2" id="51497430-6ada-11e3-ae7f-e0cb4ee82d3a">Opalescence™ Curtain Shredder</card>
+    <card qty="2" id="5149c251-6ada-11e3-a8e5-e0cb4ee82d3a">Winona™ On the Scent</card>
+    <card qty="3" id="514a859e-6ada-11e3-8ea9-e0cb4ee82d3a">Sweet and Kind</card>
+    <card qty="1" id="514c3351-6ada-11e3-b66d-e0cb4ee82d3a">Duck and Cover</card>
+    <card qty="1" id="514ccf90-6ada-11e3-b0b8-e0cb4ee82d3a">Nurture With Knowledge</card>
+    <card qty="1" id="514ef270-6ada-11e3-b8d2-e0cb4ee82d3a">Yay!</card>
+    <card qty="1" id="514f8eb0-6ada-11e3-83fe-e0cb4ee82d3a">Critter Cuisine</card>
+    <card qty="2" id="51502aee-6ada-11e3-8fd4-e0cb4ee82d3a">Hard Hat</card>
+    <card qty="2" id="51518a80-6ada-11e3-80b1-e0cb4ee82d3a">Too Many Bandages</card>
+    <card qty="2" id="5151b18f-6ada-11e3-9910-e0cb4ee82d3a">Too Much Pie</card>
+    <card qty="2" id="5152ea10-6ada-11e3-bdda-e0cb4ee82d3a">Timberwolf™</card>
+    <card qty="2" id="51533830-6ada-11e3-89cb-e0cb4ee82d3a">Yellow Parasprite™</card>
+  </section>
+  <section name="Problem Deck" shared="False">
+    <card qty="1" id="7113e1b0-6ada-11e3-9a32-e0cb4ee82d3a">A Thorn in His Paw</card>
+    <card qty="2" id="711456de-6ada-11e3-9ed2-e0cb4ee82d3a">Bunny Breakout</card>
+    <card qty="1" id="7115b670-6ada-11e3-99eb-e0cb4ee82d3a">Hungry Hungry Caterpillars</card>
+    <card qty="2" id="71171600-6ada-11e3-b360-e0cb4ee82d3a">Monster of a Minotaur</card>
+    <card qty="2" id="71182770-6ada-11e3-b60e-e0cb4ee82d3a">Runaway Cart</card>
+    <card qty="2" id="71184e80-6ada-11e3-9978-e0cb4ee82d3a">Save Sweet Apple Acres</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>

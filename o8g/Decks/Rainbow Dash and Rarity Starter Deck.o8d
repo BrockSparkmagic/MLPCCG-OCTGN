@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<deck game="97c57de5-acec-418c-8f51-460aac7b386d">
+  <section name="Mane Character" shared="False">
+    <card qty="1" id="22b40e21-6bcd-11e3-958f-e0cb4ee82d3a">Rainbow Dash Flier Extraodinaire</card>
+    <card qty="1" id="22b40e25-6bcd-11e3-8a43-e0cb4ee82d3a">Rarity Dazzling Fashionista</card>
+  </section>
+  <section name="Draw Deck" shared="False">
+    <card qty="2" id="513d181e-6ada-11e3-9d6a-e0cb4ee82d3a">Jetstream All Heart</card>
+    <card qty="2" id="513d3f30-6ada-11e3-b988-e0cb4ee82d3a">Cerulean Skies Skyward Soarer</card>
+    <card qty="1" id="513d6640-6ada-11e3-9c68-e0cb4ee82d3a">Finish Line Jammer</card>
+    <card qty="2" id="513ddb70-6ada-11e3-a1e4-e0cb4ee82d3a">Emerald Green Cider Aficionado</card>
+    <card qty="2" id="513e0280-6ada-11e3-91f4-e0cb4ee82d3a">Holly Dash™ Flighty Filly</card>
+    <card qty="2" id="513e2991-6ada-11e3-acd1-e0cb4ee82d3a">Pegasus Royal Guard Elite Sentry</card>
+    <card qty="1" id="513e77b0-6ada-11e3-b497-e0cb4ee82d3a">Rainbowshine Cloud Wrangler</card>
+    <card qty="3" id="513f13ee-6ada-11e3-bb37-e0cb4ee82d3a">Sweetie Sunrise Early Riser</card>
+    <card qty="2" id="514618d0-6ada-11e3-bc67-e0cb4ee82d3a">Vidala Swoon Mane Manager</card>
+    <card qty="2" id="51463fe1-6ada-11e3-810b-e0cb4ee82d3a">Hoity Toity™ Vogue Authority</card>
+    <card qty="2" id="51468e00-6ada-11e3-8858-e0cb4ee82d3a">Pearly Stitch Crotchety Crocheter</card>
+    <card qty="2" id="51470330-6ada-11e3-bb03-e0cb4ee82d3a">Noteworthy™ Humdinger</card>
+    <card qty="2" id="5147514f-6ada-11e3-9d16-e0cb4ee82d3a">Royal Riff™ Songster</card>
+    <card qty="3" id="5147785e-6ada-11e3-8090-e0cb4ee82d3a">Sugar Twist Twister Sister</card>
+    <card qty="3" id="514a3780-6ada-11e3-96d5-e0cb4ee82d3a">Dig Deep</card>
+    <card qty="1" id="514afacf-6ada-11e3-bc59-e0cb4ee82d3a">A Touch of Refinement</card>
+    <card qty="1" id="514b970f-6ada-11e3-b6e8-e0cb4ee82d3a">Crême de la Crême</card>
+    <card qty="1" id="514d6bcf-6ada-11e3-8bae-e0cb4ee82d3a">Swing Into Action</card>
+    <card qty="2" id="514fb5c0-6ada-11e3-9732-e0cb4ee82d3a">Foal Free Press</card>
+    <card qty="1" id="51505200-6ada-11e3-b05a-e0cb4ee82d3a">Lead Pony Badge</card>
+    <card qty="2" id="5150790f-6ada-11e3-aafb-e0cb4ee82d3a">Marvelous Chapeau</card>
+    <card qty="2" id="51516370-6ada-11e3-b412-e0cb4ee82d3a">The Ponyville Express</card>
+    <card qty="2" id="5152ea10-6ada-11e3-bdda-e0cb4ee82d3a">Timberwolf™</card>
+    <card qty="2" id="51533830-6ada-11e3-89cb-e0cb4ee82d3a">Yellow Parasprite™</card>
+  </section>
+  <section name="Problem Deck" shared="False">
+    <card qty="1" id="711679c0-6ada-11e3-88f4-e0cb4ee82d3a">Looking for Trouble</card>
+    <card qty="2" id="71162ba1-6ada-11e3-a501-e0cb4ee82d3a">It's a Twister!</card>
+    <card qty="1" id="7115dd80-6ada-11e3-8618-e0cb4ee82d3a">I Can Fix It!</card>
+    <card qty="2" id="71154140-6ada-11e3-9000-e0cb4ee82d3a">Emergency Dress Order</card>
+    <card qty="2" id="7114f31e-6ada-11e3-826d-e0cb4ee82d3a">Cloudbursting</card>
+    <card qty="2" id="7114cc0f-6ada-11e3-b904-e0cb4ee82d3a">Clearing Gloomy Skies</card>
+  </section>
+  <notes><![CDATA[]]></notes>
+</deck>
