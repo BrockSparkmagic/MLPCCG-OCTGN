@@ -53,6 +53,9 @@
       <groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />
     </group>
 
+    <group name="Discard" shortcut="ctrl+D" visibility="all" width="63" height="88" icon="groups/discard.png">
+    </group>
+
     <counter name="Score" icon="Counters/score.png" reset="True" />
     <counter name="Action Tokens" icon="Counters/actiontoken.png" reset="True" />
   </player>
