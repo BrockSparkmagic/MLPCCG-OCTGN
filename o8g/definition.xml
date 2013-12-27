@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <game name="My Little Pony CCG" id="97c57de5-acec-418c-8f51-460aac7b386d" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	octgnVersion="3.1.0.0" 
-	version="1.0.2.0"
+	version="1.0.3.0"
 	markersize="10" 
 	setsurl="http://brocksparkmagic.github.io/MLPCCG-OCTGN/sets.htm"
 	gameurl="http://brocksparkmagic.github.io/MLPCCG-OCTGN"
