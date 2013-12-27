@@ -1,0 +1,86 @@
+<set gameId="97c57de5-acec-418c-8f51-460aac7b386d" gameVersion="1.0.0" id="65922a00-6ee9-11e3-82be-e0cb4ee82d3a" name="Prerelease Promos" version="1.0.0.0">
+  <cards>
+    
+    <card id="9958998f-6eea-11e3-b472-e0cb4ee82d3a" name="Rainbow Dash To The Rescue">
+      <property name="Type" value="Friend" />
+      <property name="Color" value="Blue" />
+      <property name="ID" value="1" />
+      <property name="CardName" value="Rainbow Dash" />
+      <property name="TagLine" value="To The Rescue" />
+      <property name="Rarity" value="Promo" />
+      <property name="Traits" value="Pegasus" />
+      <property name="Cost" value="4" />
+      <property name="Requires" value="2" />
+      <property name="Provides" value="3" />
+      <property name="Text" value="Swift (You may move this card for 1 fewer action tokens.)
+After a faceoff involving this card, you may put one of the cards you flipped for the faceoff into your hand." />
+    </card>
+    <card id="99589990-6eea-11e3-82ff-e0cb4ee82d3a" name="Applejack Farm Foremare">
+      <property name="Type" value="Friend" />
+      <property name="Color" value="Orange" />
+      <property name="ID" value="2" />
+      <property name="CardName" value="Applejack" />
+      <property name="TagLine" value="Farm Foremare" />
+      <property name="Rarity" value="Promo" />
+      <property name="Traits" value="Earth Pony" />
+      <property name="Cost" value="?" />
+      <property name="Requires" value="?" />
+      <property name="Provides" value="?" />
+      <property name="Text" value="?????????" />
+    </card>
+    <card id="99589991-6eea-11e3-8ac4-e0cb4ee82d3a" name="Pinkie Pie Ear to Ear">
+      <property name="Type" value="Friend" />
+      <property name="Color" value="Pink" />
+      <property name="ID" value="3" />
+      <property name="CardName" value="Pinkie Pie" />
+      <property name="TagLine" value="Ear to Ear" />
+      <property name="Rarity" value="Promo" />
+      <property name="Traits" value="Earth Pony" />
+      <property name="Cost" value="?" />
+      <property name="Requires" value="?" />
+      <property name="Provides" value="?" />
+      <property name="Text" value="?????????" />
+    </card>
+    <card id="99589992-6eea-11e3-a867-e0cb4ee82d3a" name="Twilight Sparkle Research Student">
+      <property name="Type" value="Friend" />
+      <property name="Color" value="Purple" />
+      <property name="ID" value="4" />
+      <property name="CardName" value="Twilight Sparkle" />
+      <property name="TagLine" value="Research Student" />
+      <property name="Rarity" value="Promo" />
+      <property name="Traits" value="Unicorn" />
+      <property name="Cost" value="2" />
+      <property name="Requires" value="2" />
+      <property name="Provides" value="1" />
+      <property name="Text" value="Studious (When you win a faceoff involving at least one of your characters with this keyword, gain 1 action token.)
+When you confront this card's Problem, you may move this card home to gain 1 action token." />
+    </card>
+    <card id="99589993-6eea-11e3-bd7c-e0cb4ee82d3a" name="Rarity, Dragon Charmer">
+      <property name="Type" value="Friend" />
+      <property name="Color" value="White" />
+      <property name="ID" value="5" />
+      <property name="CardName" value="Rarity" />
+      <property name="TagLine" value="Dragon Charmer" />
+      <property name="Rarity" value="Promo" />
+      <property name="Traits" value="Unicorn" />
+      <property name="Cost" value="?" />
+      <property name="Requires" value="?" />
+      <property name="Provides" value="?" />
+      <property name="Text" value="????????????????????" />
+    </card>
+    <card id="99589994-6eea-11e3-9eea-e0cb4ee82d3a" name="Fluttershy Safe Haven">
+      <property name="Type" value="Friend" />
+      <property name="Color" value="Yellow" />
+      <property name="ID" value="6" />
+      <property name="CardName" value="Fluttershy" />
+      <property name="TagLine" value="Safe Haven" />
+      <property name="Rarity" value="Promo" />
+      <property name="Traits" value="Pegasus" />
+      <property name="Cost" value="?" />
+      <property name="Requires" value="?" />
+      <property name="Provides" value="?" />
+      <property name="Text" value="????????????????" />
+    </card>
+    
+  </cards>
+</set>
