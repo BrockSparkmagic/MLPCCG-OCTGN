@@ -45,6 +45,8 @@
   </table>
   <player summary="Hand:{#Hand} Score:{#Score} Actions:{#Action Tokens}">
     <hand name="Hand" shortcut="ctrl+H" visibility="me" ordered="False" width="63" height="88" icon="groups/hand.png">
+      <groupaction menu="Discard At Random" execute="discardAtRandom" />
+
     </hand>
     <group name="Deck" shortcut="ctrl+E" visibility="none" width="63" height="88" icon="groups/deck.png">
       <groupaction menu="Shuffle" shortcut="ctrl+S" execute="shuffle" />

@@ -49,3 +49,11 @@ def tap(card, x=0, y=0):
 
 def resetAll():
   pass
+
+def discardAtRandom(group):
+  if len(group) == 0:
+    return
+
+  card = group.random()
+  card.moveTo(group.player.discard)
+
