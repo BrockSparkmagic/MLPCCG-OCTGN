@@ -35,10 +35,10 @@ def shuffle(group, x = 0, y = 0):
 
 def checkMovedCard(player,card,fromGroup,toGroup,oldIndex,index,oldX,oldY,x,y,isScriptMove):
   mute()
-  debugNotify("isScriptMove = %s", isScriptMove)
-  if isScriptMove: return # If the card move happened via a script, then all automations should have happened already.
   if card.type == "Problem" and toGroup == table and not (card.orientation & Rot90):
-      card.orientation |= Rot90
+    card.orientation |= Rot90
+#  if card.type == "Troublemaker" and fromGroup == player.hand and toGroup == table:
+
 
 def createReferenceCards(group, x=0, y=0):
   table.create(scoreCardID, 0, 0, 1)
